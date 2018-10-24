@@ -1,0 +1,4 @@
+#Tue Oct 23 20:01:45 EDT 2018
+base.0=/Users/prince/Desktop/MCS/Work/Week4/TwoActivities/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
